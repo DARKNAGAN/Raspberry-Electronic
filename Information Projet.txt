@@ -1,0 +1,12 @@
+
+Raspberry Pi (Official) :
+https://www.raspberrypi.org
+
+Kubii (Official Boutique) :
+https://www.kubii.fr/
+
+SunFounder (Projets):
+https://www.sunfounder.com/learn
+
+NOOBS (OS) :
+https://www.raspberrypi.org/documentation/installation/noobs.md
